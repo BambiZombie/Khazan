@@ -40,6 +40,7 @@ Khazan.exe -a x86 -u http://127.0.0.1/yn4A
 ## 4. VT
 
 64 位 shellcode：
+![](https://user-images.githubusercontent.com/84751437/229712692-074d5857-049f-4f0d-804e-db55c684222e.png)
 
 
 
