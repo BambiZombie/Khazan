@@ -2,7 +2,7 @@
 
 ## 1. 简介
 
-一个 CS shellcode 生成器，用于生成适配 CS 的 shellcode，半成品。
+一个 CS shellcode 生成器，用于生成适配 CS 的 shellcode，小玩具。
 
 ## 2. 主要功能
 
